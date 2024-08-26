@@ -7,7 +7,7 @@ Welcome to the RS Bookstore API
 This API interacts with a SQL database, and also interfaces with a client app to allow users to view and purchase books, and also manage their shopping carts.  
 Administrators can also use the API to add, edit, and view inventory details.  
 
-# This API also has an accompanying client app you can use to interface with the API. Download the client using this link: [Client App](https://github.com/PROG7311-VCDN-2024/bookstore-client-ST10082747.git)
+# This API also has an accompanying client app you can use to interface with the API. Download the client using this link: [Client App](https://github.com/SamTheCopy-ninja/C-Sharp-Bookstore-App-With-API.git)
 
 ## Features
 

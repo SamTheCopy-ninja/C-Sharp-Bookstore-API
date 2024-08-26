@@ -61,7 +61,7 @@ To install the API, download the .zip file or clone the repository:
 
 ```bash
 # Clone the repository
-git clone https://github.com/PROG7311-VCDN-2024/bookstore-api-ST10082747.git
+git clone https://github.com/SamTheCopy-ninja/C-Sharp-Bookstore-API.git
 ```  
 
 ## Configuration  

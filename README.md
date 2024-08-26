@@ -66,7 +66,7 @@ git clone https://github.com/SamTheCopy-ninja/C-Sharp-Bookstore-API.git
 
 ## Configuration  
 
-- First begin by setting up your database in `SSMS`:
+- First begin by setting up your database in `Microsoft SSMS`:
   You will need the following tables:
 ```sql
 -- Create Books Table
